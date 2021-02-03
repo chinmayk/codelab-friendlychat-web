@@ -1,3 +1,6 @@
+
+Pay attention to https://link.springer.com/article/10.1007/s40593-013-0001-9/tables/1
+May be helpful to give hints in this rule based way. 
 # Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
